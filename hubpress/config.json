@@ -1,8 +1,8 @@
 {
   "meta": {
-    "username": "put your username here",
+    "username": "webscraperdev",
     "repositoryName": "put your repository name here",
-    "branch": "master"
+    "branch": "webscraperdev.github.io"
   },
   "theme": {
     "name": "Casper"
